@@ -1,0 +1,21 @@
+{
+    "name":"deobfuscate",
+    "title": "DeObfuscate",
+    "author": {
+        "name": "Villa Gao",
+        "email": "jky239@gmail.com",
+        "url": "http://villadora.me/"
+    },
+    "version": "0.0.1",
+    "main": "lib/deob.js",
+    "dependencies": {
+        "uglify-js": "2.3.0",
+        "commander": "1.1.1"
+    },
+    "bin": {
+        "deob": "lib/deob.js"
+    },
+    "engines": {
+        "node":">=0.8"
+    }
+}
