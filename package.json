@@ -4,7 +4,7 @@
     "author": {
         "Name": "Villa Gao",
         "email": "jky239@gmail.com",
-        "url": "http://villadora.me/"
+        "url": "http://villadora.github.io/"
     },
     "version": "0.0.1",
     "main": "lib/deob.js",
@@ -15,6 +15,7 @@
     "bin": {
         "deob": "lib/deob.js"
     },
+    "readmeFilename":"README.md",
     "engines": {
         "node":">=0.8"
     }

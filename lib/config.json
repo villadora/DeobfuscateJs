@@ -10,5 +10,8 @@
     },
     "reverse_manglings": {
     },
-    "guesses":[]
+    "prop_replaces": {
+    },
+    "inline_functions": [
+    ]
 }
