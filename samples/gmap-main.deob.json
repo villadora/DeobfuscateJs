@@ -1,5 +1,7 @@
 {
     "reverse_manglings": {
+        "ae":"singleton",
+        "Kf":"_gjsload_",
         "I":"proto",
         "Sd":"floatEquals",
         "Xd":"notUndefined",
