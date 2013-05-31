@@ -6,8 +6,8 @@
         "email": "jky239@gmail.com",
         "url": "http://villadora.github.io/"
     },
-    "version": "0.0.1",
-    "main": "lib/deob.js",
+    "version": "0.0.2",
+    "main": "lib/deobfuscate.js",
     "dependencies": {
         "uglify-js": "2.3.0",
         "commander": "1.1.1"

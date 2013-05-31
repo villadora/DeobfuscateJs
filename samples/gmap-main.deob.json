@@ -1,5 +1,13 @@
 {
     "reverse_manglings": {
+        "Od":"forIn",
+        "Rf":"ZeroSize",
+        "eg":"OriginPoint",
+        "ue":"roundTo",
+        "Me":"lengthOfDim",
+        "Le": "distance",
+        "Je":"LngDim",
+        "Ne":"LatDim",
         "ae":"singleton",
         "Kf":"_gjsload_",
         "I":"proto",
@@ -13,6 +21,7 @@
         "dd":"global",
         "Yc":"EmptyFn",
         "Zc":"getter",
+        "P":"LatLng",
         "Ig": "BicyclingLayer",
         "yg":"DirectionsRenderer",
         "Qf":"DirectionsService",
@@ -73,6 +82,7 @@
         "$a":"set_zoom"
     },
     "inline_functions": [
+        "Ke",
         "qa",
         "ra",
         "sa",
@@ -81,9 +91,9 @@
         "va",
         "wa",
         "xa",
-        "xa" ,
+        "xa",
         "ya",
-        "Aa" ,
+        "Aa",
         "Ba",
         "Da",
         "Ea",
