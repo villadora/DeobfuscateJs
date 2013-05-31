@@ -1,5 +1,7 @@
 var a = window, b = Math, d = Object, e = true, x = 3, xxx = "string", dd="hasOwnProperty", ar = b.round;
 
+x += 3;
+
 function Af(a,b) {
     return a[b] = null;
 }
