@@ -12,8 +12,9 @@
         "Md":"contains",
         "L":"extend",
         
-        "fe": "bind",
-        "O":"bindWithArgs",
+        "fe": "simpleBind",
+        "O":"bind",
+        "Af":"bindTo",
         "de":"sliceArray",
         "ee":"argumentsConvert",
         "ge":"getNow",
@@ -38,17 +39,35 @@
         
         "dd":"global",
         "Zc":"getter",
+        "Gf":"moduleManger",
+        "Ff":"moduleWrap",
+        "jf":"modulesDep",
+        "Ef":"revertDep",
+        "kf":"module",
+
+        "Kf":"_gjsload_",
+        "se":"addScript",
 
         
+        "Cf":"globalListenerId",
+        "wf":"MapsEventListener",
+        "yf":"getListenersForName",
+        "xf":"getListeners",
+        "zf":"wrapDetachHandler",
+        "event.ye":"isIE",
+        "event.Hd": "listeners",
+        "event.rf":"exists",
+        "event.T":"bindDom",
+        "event.Oa":"forwardDom",
+
+
+
         "I":"proto",
         "Me":"lengthOfDim",
         "Le": "distance",
         "Je":"LngDim",
         "Ne":"LatDim",
         "ae":"singleton",
-        "Kf":"_gjsload_",
-        "wf":"MapsEventListener",
-        "event.ye":"isIE",
         "Rf":"ZeroSize",
         "eg":"OriginPoint",
         "P":"LatLng",

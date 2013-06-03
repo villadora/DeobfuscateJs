@@ -46,9 +46,12 @@ Options:
 
 TODOs
 ------------------
-1. Change to SpiderMonkey AST Tree
-3. Bi-direction AST Tree
-2. Enhance the AST Tree to enable duplicated definitions analysis
-4. Inline for functions with multiple statements
-5. More intelligent name guessing based on key-value pairs
-6. Add other new optimization that compressor will use
+* Change to SpiderMonkey AST Tree
+* Bi-direction AST Tree
+* More deep constants value detecting. 
+    * Invariability spread from global undeclared variables into variables in small scopes
+    * More intelligent name guessing based on key-value pairs
+* Enhance the AST Tree to enable duplicated definitions analysis
+
+* Add other new optimization that compressor will use
+* Inline for functions with multiple statements (may no needs)
