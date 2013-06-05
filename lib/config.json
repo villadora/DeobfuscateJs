@@ -1,0 +1,17 @@
+{
+    "constants": {
+        "void 0": "undefined",
+        "null": null,
+        "true":true,
+        "!0": true,
+        "false":false,
+        "!1": false,
+        "Infinity":"Infinity"
+    },
+    "reverse_manglings": {
+    },
+    "prop_replaces": {
+    },
+    "inline_functions": [
+    ]
+}

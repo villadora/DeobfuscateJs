@@ -1,0 +1,30 @@
+{
+    "name":"deobfuscate",
+    "title": "DeObfuscate",
+    "author": {
+        "Name": "Villa Gao",
+        "email": "jky239@gmail.com",
+        "url": "http://villadora-blog.herokuapp.com/"
+    },
+    "version": "0.0.2",
+    "main": "lib/deobfuscate.js",
+    "dependencies": {
+        "commander": "~1.1.1",
+        "underscore":"~1.4.4",
+        "esprima":"~1.0.3",
+        "escodegen":"~0.0.22",
+        "estraverse":"~1.1.1",
+        "esgraph":"~0.1.0",
+        "q":"~0.9.4"
+    },
+    "devDependencies":{
+        "mocha": ""
+    },
+    "bin": {
+        "deob": "bin/deob.js"
+    },
+    "readmeFilename":"README.md",
+    "engines": {
+        "node":">=0.8"
+    }
+}
