@@ -17,6 +17,7 @@
         "deob": "lib/deob.js"
     },
     "readmeFilename":"README.md",
+    "license":"BSD",
     "engines": {
         "node":">=0.8"
     }
