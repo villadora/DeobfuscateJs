@@ -6,7 +6,7 @@
         "email": "jky239@gmail.com",
         "url": "http://villadora.github.io/"
     },
-    "version": "0.0.2",
+    "version": "0.0.0",
     "main": "lib/deobfuscate.js",
     "dependencies": {
         "mkdirp": "~0.3.5",
